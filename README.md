@@ -1,5 +1,5 @@
 ## Profile Summary Cards 
 
-[![](https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/0-profile-details.svg" width="67%"><img src="https://raw.githubusercontent.com/VoyagerYoshida/VoyagerYoshida/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<p>
